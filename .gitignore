@@ -1,0 +1,9 @@
+*.mar
+*.exe
+*.msi
+*.nss
+*.key
+*.p12
+cert9.db
+key4.db
+pkcs11.txt
