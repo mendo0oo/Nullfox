@@ -6,7 +6,7 @@ Installed browsers read [`update.xml`](update.xml). Signed complete MAR files an
 
 The private MAR signing database is intentionally not stored in this repository. NullFox verifies every downloaded MAR against public certificates compiled into the updater before installation.
 
-The update endpoint is `https://raw.githubusercontent.com/mendo0oo/Nullfox/main/update.xml`. Copies installed before this endpoint and the NullFox signing certificates were added require one manual bootstrap installation. Every later release must use a newer application version and Build ID.
+The update endpoint is `https://raw.githubusercontent.com/mendo0oo/Nullfox/main/update.xml`. Copies installed before this endpoint and the NullFox signing certificates were added require one manual bootstrap installation. Every release must have a unique, newer Build ID; public versioned releases should also increment the application version.
 
 ## Signing certificates
 
