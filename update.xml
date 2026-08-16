@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updates/>
+<updates>
+  <update type="minor" displayVersion="155.0a1" appVersion="155.0a1" platformVersion="155.0a1" buildID="20260816195017">
+    <patch type="complete" URL="https://github.com/mendo0oo/Nullfox/releases/download/v155.0a1-20260816195017/nullfox-155.0a1-win64.complete.mar" hashFunction="sha512" hashValue="b4f3be154aec9644c2429e570faddc7ba7902b7c6d72f29301f9815045de7384f56aeb22da585a5c37b3b794655cc1a73cfa0a70e51a82ca4b8ba16ddcb097df" size="102786225"/>
+  </update>
+</updates>
